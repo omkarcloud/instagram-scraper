@@ -1,0 +1,91 @@
+{
+ "user": {
+  "pk": "13460080",
+  "aigm_account_label_info": null,
+  "friendship_status": null,
+  "gating": null,
+  "fbid_v2": "17841400602400210",
+  "is_memorialized": false,
+  "is_private": false,
+  "has_story_archive": null,
+  "is_coppa_enforced": null,
+  "supervision_info": null,
+  "is_regulated_c18": false,
+  "regulated_news_in_locations": [],
+  "bio_links": [
+   {
+    "image_url": "",
+    "is_pinned": false,
+    "link_id": "17900901143536510",
+    "link_type": "external",
+    "lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Fempli.fi%2Fnike&e=AUBNu7nTZpAdz0F77h76n4d3F-pdNqRdktdEPq9wjLUO-ghNiuTjuKJIL9qgMTOnlOyOW6tWR1bsKsnhujiJLzG9cVTk-zgU06VLcdFx4k2ler9Sqm7NcMetRx2BYVkasXsAjXllgzUoWNZs6mcnLdynNgE",
+    "media_accent_color_hex": "",
+    "media_type": "none",
+    "title": "",
+    "url": "http://empli.fi/nike",
+    "creation_source": "NONE"
+   }
+  ],
+  "linked_fb_info": null,
+  "meta_verified_benefits_info": {
+   "active_meta_verified_benefits": []
+  },
+  "text_post_app_badge_label": "nike",
+  "show_text_post_app_badge": true,
+  "username": "nike",
+  "live_broadcast_visibility": null,
+  "live_broadcast_id": null,
+  "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.82787-19/551608484_18567162979020081_1135468084872726555_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=1&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4zOTkuQzMifQ%3D%3D&_nc_ohc=l3wg8iAkAc4Q7kNvwGuWlbA&_nc_oc=AdrtrohHG2UISNkJGtylVwkoauERv2wKITr4xzWa_fPFbgda0_etqc3OyZtWnBMxbew&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=cg-oDjq0Hh-s94ac1EMW2g&_nc_ss=7fa8c&oh=00_AQL55Obi1RPFfkF2vn6gdte2FKr_ZcyK2GLtOQkHffozdw&oe=6AB9883A",
+  "hd_profile_pic_url_info": {
+   "url": "https://scontent.cdninstagram.com/v/t51.82787-19/551608484_18567162979020081_1135468084872726555_n.jpg?_nc_cat=1&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4zOTkuQzMifQ%3D%3D&_nc_ohc=l3wg8iAkAc4Q7kNvwGuWlbA&_nc_oc=AdrtrohHG2UISNkJGtylVwkoauERv2wKITr4xzWa_fPFbgda0_etqc3OyZtWnBMxbew&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=cg-oDjq0Hh-s94ac1EMW2g&_nc_ss=7fa8c&oh=00_AQJGU-fKOlOWdvWMMf1U_75fKm1bB_69a5ZlbnhGhIR5tA&oe=6AB9883A"
+  },
+  "is_unpublished": false,
+  "latest_reel_media": null,
+  "has_profile_pic": null,
+  "profile_pic_genai_tool_info": [],
+  "biography": "Just Do It.",
+  "full_name": "Nike",
+  "is_verified": true,
+  "show_account_transparency_details": true,
+  "account_type": 2,
+  "follower_count": 291150541,
+  "mutual_followers_count": null,
+  "profile_context_links_with_user_ids": null,
+  "profile_context_facepile_users": null,
+  "address_street": null,
+  "city_name": null,
+  "is_business": false,
+  "zip": null,
+  "biography_with_entities": {
+   "entities": []
+  },
+  "category": "",
+  "should_show_category": true,
+  "is_ring_creator": null,
+  "show_ring_award": null,
+  "ring_creator_metadata": null,
+  "account_badges": [],
+  "ai_agent_type": null,
+  "external_lynx_url": "https://l.instagram.com/?u=http%3A%2F%2Fempli.fi%2Fnike&e=AUBsUH0QApRdpo3paEMnkxJCC_FxhSZIIBjzSG5b7QMiUQSnYCvqqBPa-Wi871Hezo4-XcrxDH0LC6DWfhOxPX4qo_x7kJzA6a-MRrAQtmqZwtEjJ4OgsgKMZ450curXG6DHZyz-A6TvA3G5Qq-VhQUYGpI",
+  "external_url": "http://empli.fi/nike",
+  "pronouns": [],
+  "transparency_label": null,
+  "transparency_product": null,
+  "hide_creator_marketplace_badge": false,
+  "id": "13460080",
+  "has_chaining": null,
+  "remove_message_entrypoint": null,
+  "is_embeds_disabled": false,
+  "is_cannes": false,
+  "is_professional_account": null,
+  "following_count": 266,
+  "media_count": null,
+  "total_clips_count": 1,
+  "has_longform_media": false,
+  "latest_besties_reel_media": null,
+  "reel_media_seen_timestamp": null
+ },
+ "viewer": {
+  "user": null
+ }
+}

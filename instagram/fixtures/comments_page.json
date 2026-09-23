@@ -1,0 +1,89 @@
+{
+ "xig_polaris_media": {
+  "__typename": "XIGPolarisCarouselMedia",
+  "comments_connection": {
+   "edges": [
+    {
+     "node": {
+      "pk": "18424603339146110",
+      "is_covered": false,
+      "restricted_status": null,
+      "has_translation": null,
+      "user": {
+       "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.82787-19/821478507_18104449574092994_8423884713287805761_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=103&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=3NI4oi4mEPIQ7kNvwHBrN5H&_nc_oc=AdoqYALAYnY5gSDUkFarF7PQF4cA9qmCfMkkw0y6Htvog33fV6RQGcwyZhk8vooZJMQ&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vOViRb1bRdKWF5Oeyjsz6g&_nc_ss=7fa8c&oh=00_AQJ46xiCC8D1lPG13jzONcV0HAHrCyC-yRjqqM5v5KesCg&oe=6AB97CDC",
+       "username": "korean_dream_shop_online.com1",
+       "id": "32718396993",
+       "is_unpublished": false,
+       "pk": "32718396993",
+       "is_verified": false
+      },
+      "child_comment_count": null,
+      "text": "Assalamu Alaikum. You can find all kinds of Korean products with us.",
+      "giphy_media_info": null,
+      "created_at": 1790153691,
+      "parent_comment_id": null,
+      "comment_like_count": 0,
+      "id": "18424603339146110",
+      "__typename": "XIGComment"
+     },
+     "cursor": null
+    },
+    {
+     "node": {
+      "pk": "17940230076357965",
+      "is_covered": false,
+      "restricted_status": null,
+      "has_translation": null,
+      "user": {
+       "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.82787-19/759964463_18041155838804245_8222514482490878942_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JXILZPaZwggQ7kNvwE4Cz8c&_nc_oc=AdpAWSMTaxEfxsL_uLuLKAEovXdXjO00hrOqySVtBmEphiA-QsnA31Om-oyPmK-vH8Y&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vOViRb1bRdKWF5Oeyjsz6g&_nc_ss=7fa8c&oh=00_AQITNjY0EosOc_1mVwsC2-GrMbAcCnOKtzIIgVNfjJBOOQ&oe=6AB972C8",
+       "username": "nishapatel9982",
+       "id": "54029772244",
+       "is_unpublished": false,
+       "pk": "54029772244",
+       "is_verified": false
+      },
+      "child_comment_count": null,
+      "text": "😍😍😍🙏",
+      "giphy_media_info": null,
+      "created_at": 1790152100,
+      "parent_comment_id": null,
+      "comment_like_count": 0,
+      "id": "17940230076357965",
+      "__typename": "XIGComment"
+     },
+     "cursor": null
+    },
+    {
+     "node": {
+      "pk": "18087695675262049",
+      "is_covered": false,
+      "restricted_status": null,
+      "has_translation": null,
+      "user": {
+       "profile_pic_url": "https://scontent.cdninstagram.com/v/t51.82787-19/759964463_18041155838804245_8222514482490878942_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=110&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=JXILZPaZwggQ7kNvwE4Cz8c&_nc_oc=AdpAWSMTaxEfxsL_uLuLKAEovXdXjO00hrOqySVtBmEphiA-QsnA31Om-oyPmK-vH8Y&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=vOViRb1bRdKWF5Oeyjsz6g&_nc_ss=7fa8c&oh=00_AQITNjY0EosOc_1mVwsC2-GrMbAcCnOKtzIIgVNfjJBOOQ&oe=6AB972C8",
+       "username": "nishapatel9982",
+       "id": "54029772244",
+       "is_unpublished": false,
+       "pk": "54029772244",
+       "is_verified": false
+      },
+      "child_comment_count": null,
+      "text": "🙏🙏",
+      "giphy_media_info": null,
+      "created_at": 1790152097,
+      "parent_comment_id": null,
+      "comment_like_count": 0,
+      "id": "18087695675262049",
+      "__typename": "XIGComment"
+     },
+     "cursor": null
+    }
+   ],
+   "page_info": {
+    "end_cursor": "{\"is_server_cursor_inverse\":true,\"server_cursor\":\"AQHTDg9SXBkyUtXnLaDtXy9XF-IC2c22ZEQXeLKbUT_5InHVEg24pWvFWu7LSMgaVonZheQjAouK8_CzNqsnV73RmQ\"}",
+    "has_next_page": true
+   }
+  },
+  "id": "POLARIS_3982487950286638198"
+ }
+}

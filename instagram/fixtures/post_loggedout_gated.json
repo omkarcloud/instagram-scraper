@@ -1,0 +1,18 @@
+{
+ "xig_polaris_media": {
+  "__typename": "XIGPolarisCarouselMedia",
+  "pk": "3972282388667522428",
+  "code": "DcgYclUEV18",
+  "if_not_gated_logged_out": null,
+  "gating_ruling": {
+   "gating_type": 2,
+   "description": "This content isn't available in your country due to legal restrictions.",
+   "title": "Not available in your region"
+  },
+  "id": "POLARIS_3972282388667522428",
+  "comments_connection": {
+   "edges": [],
+   "page_info": null
+  }
+ }
+}
