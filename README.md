@@ -101,7 +101,7 @@ All 19 endpoints are now live at `http://localhost:8000`.
 | User Posts | `/users/posts` | A user's posts with likes, comments, captions and media, 12 per page |
 | User Reels | `/users/reels` | A user's reels with play counts, video links and audio, 12 per page |
 | Post Details | `/posts/details` | Everything about one post or reel in a single call |
-| Post Comments | `/posts/comments` | Comments with text, likes and commenter, 24 per page |
+| Post Comments | `/posts/comments` | Comments with text, likes and commenter, page by page |
 | Post Media | `/posts/media` | Every image size and video rendition, ready to download |
 | User Highlights | `/users/highlights` | Story highlights with titles and covers |
 | Highlight Stories | `/highlights/items` | Every story in a highlight with media links |

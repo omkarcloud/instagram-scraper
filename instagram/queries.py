@@ -56,7 +56,7 @@ QUERIES = {
     # one post by numeric media id: media + first 11 comments + 12 owner posts; clean geo-gating
     "PolarisLoggedOutDesktopWWWPostRootContentQuery": {
         "doc_id": "28309390568695038", "endpoint": "api", "providers": []},
-    # comments, 24 per page, cursor = the JSON string page_info.end_cursor verbatim
+    # comments: 24 asked, ~4-15 returned per page; cursor = the JSON string page_info.end_cursor verbatim
     "PolarisLoggedOutDesktopWWWPostCommentsPaginationQuery": {
         "doc_id": "27659279553772821", "endpoint": "api", "providers": []},
     # "accounts you might like": 44 users for an owner (by pk) / by Facebook id

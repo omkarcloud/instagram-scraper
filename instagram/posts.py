@@ -14,9 +14,11 @@ by media id) is asked next: it returns null for a missing post and a
 thinner logged-out media when it is available after all.
 
 Comments page with PolarisLoggedOutDesktopWWWPostCommentsPaginationQuery
-(24 per page; the cursor is the JSON string the server hands back, passed
-verbatim). Replies to a comment and the likers list are login walls
-upstream and are not served.
+(24 asked per page, ~4-15 returned after upstream filtering; the cursor is
+the JSON string the server hands back, passed verbatim). Logged out, some
+posts stop paging early (one reel with 13K comments ended at 31 on
+2026-09-23, another ran past 140). Replies to a comment and the likers list
+are login walls upstream and are not served.
 """
 from urllib.parse import urlparse
 
@@ -91,7 +93,8 @@ def get_media(post):
 
 
 def get_comments(post, cursor=None):
-    """The post's comments, 24 per page, as the site orders them logged out."""
+    """The post's comments as the site shows them logged out, page by page
+    (~12 per page; some posts stop paging early)."""
     post = _resolved(post)
     code, media_id = post["code"], post["id"]
     try:
